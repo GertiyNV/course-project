@@ -19,5 +19,8 @@
   "Введите пароль": "Enter password",
   "Форма авторизации": "Auth form",
   "Вы ввели неверный логин или пароль": "Uncorrect username or password",
-  "Выйти": "Выйти"
+  "Выйти": "Выйти",
+  "glavnaya-stranica1234": "glavnaya-stranica23",
+  "glavnaya-stranica23": "glavnaya-stranica23",
+  "primer-testa": "пример теста"
 }
